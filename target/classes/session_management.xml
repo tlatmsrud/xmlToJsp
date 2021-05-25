@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>test</comment>
+<entry key="HJG0522">off</entry>
+<entry key="HJG0521">off</entry>
+<entry key="LOGIN">off</entry>
+<entry key="HJG0508">off</entry>
+<entry key="HJG0023">on</entry>
+<entry key="HJG0507">off</entry>
+<entry key="HJG0506">off</entry>
+<entry key="HJG0505">off</entry>
+<entry key="HJG0504">off</entry>
+<entry key="LOGOUT">off</entry>
+<entry key="ZZ0008">off</entry>
+<entry key="HJG0503">off</entry>
+<entry key="ZZ0007">off</entry>
+<entry key="HJG0502">off</entry>
+<entry key="HJG0532">off</entry>
+<entry key="ZZ0006">off</entry>
+<entry key="HJG0501">off</entry>
+<entry key="HJG0531">off</entry>
+<entry key="ZZ0005">off</entry>
+<entry key="ZZ0004">off</entry>
+<entry key="HJG0004">off</entry>
+<entry key="HJG0002">off</entry>
+<entry key="HJG0513">off</entry>
+<entry key="HJG0512">off</entry>
+<entry key="HJG0511">off</entry>
+<entry key="HJG0510">off</entry>
+<entry key="default">on</entry>
+<entry key="ZZ0010">off</entry>
+<entry key="HJG0012">off</entry>
+<entry key="HJG0011">off</entry>
+<entry key="HJG0523">off</entry>
+</properties>
